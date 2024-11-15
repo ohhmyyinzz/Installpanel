@@ -9,16 +9,16 @@ read -p "Masukkan Domainnode: " domainnode
 
 bash <(curl -s https://pterodactyl-installer.se) <<EOF
 0
-vallzoffcgg
-anjyy
-slebew
-Vallz007
+lexxydev
+lexxydev1
+lexxydev
+lexxydev1
 Asia/Jakarta
 $email
 $email
-vallzoffc
-adm
-adm
+lexxy
+admin
+admin
 $password
 $subdomain
 y
